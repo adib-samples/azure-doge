@@ -13,5 +13,5 @@ The sample is stripped super simplifed version of the spring-doge sample from Jo
 
 I found the following resources helpful for putting this sample togther. 
 
-* [Introduction to Microsoft Azure Storage](https://azure.microsoft.com/en-us/documentation/articles/storage-introduction/#next-steps)
+* [Introduction to Microsoft Azure Storage](https://azure.microsoft.com/en-us/documentation/articles/storage-introduction)
 * [How to use Blob storage from Java](https://azure.microsoft.com/en-us/documentation/articles/storage-java-how-to-use-blob-storage/)
