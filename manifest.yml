@@ -1,0 +1,10 @@
+---
+applications:
+- name: azure-doge
+  memory: 512M
+  path: target/azure-doge-0.0.1-SNAPSHOT.jar
+  buildpack: java_buildpack
+  env:
+    AZURE_STORAGE_ACCOUNT_NAME: 
+    AZURE_STORAGE_ACCOUNT_KEY: 
+    
